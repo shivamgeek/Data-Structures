@@ -5,7 +5,7 @@ public class implimentStack {
 	
 	public static void main(String args[]){
 		
-		stack s=new stack(5);
+		stackInt s=new stackInt(5);
 		//s.peek();
 		//s.pop();
 		s.push(1);
